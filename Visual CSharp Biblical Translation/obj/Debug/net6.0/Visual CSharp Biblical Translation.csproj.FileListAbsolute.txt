@@ -1,0 +1,5 @@
+J:\Documents\Programming Projects\C# Projects\Biblical Translation to C#\GitHub\Visual CSharp Biblical Translation\obj\Debug\net6.0\Visual CSharp Biblical Translation.csproj.AssemblyReference.cache
+J:\Documents\Programming Projects\C# Projects\Biblical Translation to C#\GitHub\Visual CSharp Biblical Translation\obj\Debug\net6.0\Visual CSharp Biblical Translation.GeneratedMSBuildEditorConfig.editorconfig
+J:\Documents\Programming Projects\C# Projects\Biblical Translation to C#\GitHub\Visual CSharp Biblical Translation\obj\Debug\net6.0\Visual CSharp Biblical Translation.AssemblyInfoInputs.cache
+J:\Documents\Programming Projects\C# Projects\Biblical Translation to C#\GitHub\Visual CSharp Biblical Translation\obj\Debug\net6.0\Visual CSharp Biblical Translation.AssemblyInfo.cs
+J:\Documents\Programming Projects\C# Projects\Biblical Translation to C#\GitHub\Visual CSharp Biblical Translation\obj\Debug\net6.0\Visual CSharp Biblical Translation.csproj.CoreCompileInputs.cache

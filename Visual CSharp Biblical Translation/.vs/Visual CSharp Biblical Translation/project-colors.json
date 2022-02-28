@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5b032ee-bf6a-465b-abd0-6253a2c394ef": {
+      "ProjectGuid": "c5b032ee-bf6a-465b-abd0-6253a2c394ef",
+      "DisplayName": "Visual CSharp Biblical Translation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
